@@ -25,4 +25,17 @@ From: fcatus/deeplabcut:latest
 $ singularity build --remote deeplabcut.sif singularity
 ```
 
+## Build From a Singularity [Definition File](https://sylabs.io/guides/3.5/user-guide/definition_files.html)
+
+```shell
+# Download the definition file
+$ wget https://git.io/JJvBb
+
+# Customize the definition file (optional)
+$ vim dlc.def
+
+# Build remotely from the definition file
+$ singularity build --remote deeplabcut.sif dlc.def
+```
+
 For more information about using `singularity build`, see [Singularity Build](https://sylabs.io/guides/3.1/user-guide/cli/singularity_build.html).
