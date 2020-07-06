@@ -1,4 +1,4 @@
-![Docker](https://github.com/bchaselab/DLC-Docker/workflows/Docker/badge.svg) ![Docker Image CI](https://github.com/bchaselab/DLC-Docker/workflows/Docker%20Image%20CI/badge.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/fcatus/deeplabcut) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fcatus/deeplabcut)
+![Docker](https://github.com/bchaselab/DeepLabCut-Slurm/workflows/Docker/badge.svg) ![Docker Image CI](https://github.com/bchaselab/DeepLabCut-Slurm/workflows/Docker%20Image%20CI/badge.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/fcatus/deeplabcut) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fcatus/deeplabcut)
 
 ## From [Dockerhub](https://hub.docker.com/repository/docker/fcatus/deeplabcut)
 ```shell
