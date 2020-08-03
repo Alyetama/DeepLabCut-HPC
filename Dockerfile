@@ -1,3 +1,4 @@
+#adopted from: https://github.com/DeepLabCut/Docker4DeepLabCut2.0
 FROM python:3
 RUN pip install imageio
 RUN pip install imageio-ffmpeg
