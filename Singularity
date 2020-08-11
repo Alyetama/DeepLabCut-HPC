@@ -23,6 +23,5 @@ From: bethgelab/deeplearning:cuda9.0-cudnn7
 	pip3 install ruamel_yaml
 	pip3 install deeplabcutcore
 	pip3 install ipywidgets
-	pip3 install ipywidgets
 	pip3 install seaborn
   
