@@ -29,7 +29,7 @@ $ singularity build --remote deeplabcut.sif singularity
 
 ```shell
 # Download the definition file
-$ wget https://git.io/JJvBb
+$ wget https://gist.githubusercontent.com/Alyetama/c819bb2d07e58b47208c69ce76c22feb/raw/c07b264adc5424d6bd939a77bb34a95a6f80dca1/dlc.def
 
 # Customize the definition file (optional)
 $ vim dlc.def
